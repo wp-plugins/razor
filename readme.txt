@@ -11,7 +11,7 @@ State of the art cross-platform automated unit testing for WordPress plugins on 
 
 == Description ==
 
-Razor is a powerful cross-platform unit test framework that verifies the PHP and JavaScript code used in WordPress plugins works properly. It's the unit test system behind large plugins like <a href="http://wordpress.org/extend/plugins/buddypress/">BuddyPress</a> and <a href="http://code.google.com/p/buddypress-media/">BP-Media</a>.
+Razor is a powerful cross-platform unit test system that verifies the PHP and JavaScript code used in WordPress plugins works properly. It's the unit test system behind large plugins like <a href="http://wordpress.org/extend/plugins/buddypress/">BuddyPress</a> and <a href="http://code.google.com/p/buddypress-media/">BP-Media</a>.
 
 To learn how to use Razor, please visit our <a href="https://code.google.com/p/wp-razor/">Developer Support Site</a>
 

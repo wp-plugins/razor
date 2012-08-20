@@ -29,3 +29,8 @@ Razor meets the needs of both single developers and large development teams. Cas
 
 <h4>Extremely Powerful</h4>
 Razor lets developers script tests that were previously impossible to automate. Our powerful test core can install and activate plugins, load the entire database from an image file, and even check the code coverage of testcases. Razor's powerful command-line interface makes it easy to integrate with large automated test systems.
+
+
+== Screenshots ==
+
+1. **Terminal Window** - Razor running in the terminal window on Windows 7

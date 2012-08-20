@@ -14,13 +14,16 @@ State of the art cross-platform automated unit testing for WordPress plugins, on
 Razor is a sophisticated cross-platform unit test framework that verifies the PHP and JavaScript code used in WordPress plugins works properly.
 
 <h4>It Just Works</h4>
-Razor works on any modern version of Linux, Windows, or Mac OS with zero configuration changes. You can effortlesly move from your Windows desktop to your Mac notebook to your Linux production server and be confident that your unit tests will run correctly. This also dramatically simplifies coordinating large development teams, because everyone on the team can use the same test platform and the same unit tests.
+Razor works on any modern desktop operating system with zero user intervention. Our battle-hardened core runs reliably on even the most misconfigured of servers, automatically handling common problems. In the rare cases where Razor can't run, it provides useful debugging info.
+
+<h4>Multi-Platform</h4>
+Razor runs on Linux, Windows, and Mac OS, letting you seamlessly move from your Windows desktop to your Mac notebook to your Linux production server, confident that your unit tests will run correctly. Razor's multi-platform support dramatically simplifies coordinating large development teams, because everyone on the team can use the same test platform and the same unit tests.
 
 <h4>No Dependencies</h4>
-Razor contains specially modified forks of the PHPUnit and JSUnit libraries that eliminate PEAR dependencies, allowing Razor to spin-up instantly on practically ANY host with no user intervention. This eliminates PHPUnit's legendary installation problems for Mac and Windows users. It also means you can confidently check Razor into your team's version control system, knowing it won't be broken by local dependencies.
+Razor's specially modified forks of PHPUnit and JSUnit eliminate PEAR dependencies, eliminating PHPUnit's legendary installation problems for Mac and Windows users. Zero dependencies also means you can confidently check Razor into your team's version control system, knowing it will run on any machine.
 
 <h4>Scalable</h4>
-
+Razor meets the needs of both single developers and large development teams. Casual users can run tests in the WordPress backend, viewing results in their browser. Enterprise users can run tests in the terminal window, and can also use Razor as part of large-scale distributed test systems like <a href="http://travis-ci.org/">Travis-CI</a>.
 
 == Installation ==
 

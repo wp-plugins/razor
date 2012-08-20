@@ -29,6 +29,3 @@ Razor meets the needs of both single developers and large development teams. Cas
 
 <h4>Extremely Powerful</h4>
 
-
-
-== Frequently Asked Questions ==

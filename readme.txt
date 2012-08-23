@@ -34,3 +34,5 @@ Razor lets developers script tests that were previously impossible to automate. 
 == Screenshots ==
 
 1. **Terminal Window** - Razor running in the terminal window on Windows 7
+2. **Debug Dump** - Using RAZ_debug::dump() to dump a variable to the browser 
+2. **Debug Diff** - Using RAZ_debug::diff() to compare two arrays in the browser
